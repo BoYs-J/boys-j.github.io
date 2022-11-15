@@ -1,4 +1,4 @@
-[
+const cxk_Audio = [
     "https://cdzero.gitee.io/zero/data/Audio/cxk_grlxs.mp3",
     "https://cdzero.gitee.io/zero/data/Audio/cxk_hber.mp3",
     "https://cdzero.gitee.io/zero/data/Audio/cxk_hcydsj.mp3",
