@@ -62,28 +62,6 @@ function Download_main() {
             "info": "-",
             "downname": "Highlight_This_v5.3.1.crx",
             "url": "plug/Highlight_This_v5.3.1.crx",
-        }, {
-            "name": "SSR",
-            "title": "安卓apk",
-            "info": `<a href="https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7">免费账号</a> <a href="https://tr3.freeair888.club/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7/">备用</a>`,
-            "downname": "shadowsocksr-ssr.apk",
-            "url": "download/shadowsocksr-ssr.apk",
-        }, {
-            "name": "SSR",
-            "title": "Win应用",
-            "info": `<a href="https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7">免费账号</a> <a href="https://tr3.freeair888.club/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7/">备用</a>`,
-            "downname": "ShadowsocksR-4.7.0-win.7z",
-            "url": "download/ShadowsocksR-4.7.0-win.7z",
-        }, {
-            "name": "v2ray",
-            "title": "安卓apk",
-            "info": `<a href="https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7">免费账号</a> <a href="https://tr3.freeair888.club/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7/">备用</a>`,
-            "url": "https://github.com/2dust/v2rayNG/releases/",
-        }, {
-            "name": "v2ray",
-            "title": "Win应用",
-            "info": `<a href="https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7">免费账号</a> <a href="https://tr3.freeair888.club/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7/">备用</a>`,
-            "url": "https://github.com/2dust/v2rayN/releases/tag/5.39/",
         }
     ]
     let div = document.querySelector("#download_pre")
